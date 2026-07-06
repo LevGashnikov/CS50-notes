@@ -1,2 +1,3 @@
-# CS50-week0-notes
-Here you can find some of my notes about CS50. I warn you that the notes were taken unprofessionally in colloquial English.
+# CS50 Week 0 Notes
+
+Here are my personal CS50 notes. They're mostly written for myself, so expect informal English and simple explanations
